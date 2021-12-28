@@ -13,3 +13,8 @@ h3 {
 .rating span {
   margin: 0.1rem;
 }
+
+.div-add-to-cart {
+  display: flex;
+  justify-content: center;
+}
